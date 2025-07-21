@@ -3,5 +3,3 @@ PyMuPDF
 langchain
 google-generativeai
 langchain-google-genai
-langchain-prompts
-langchain-chains
